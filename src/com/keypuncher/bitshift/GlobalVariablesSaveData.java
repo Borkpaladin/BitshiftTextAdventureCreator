@@ -11,9 +11,6 @@ import com.keypuncher.entities.Player;
 
 public class GlobalVariablesSaveData implements Serializable {
 
-	/**
-	 * Copyright<c> Owen Lennon 2014
-	 */
 	private static final long serialVersionUID = 9099789417529838225L;
 	public ArrayList<OverviewNode> nodes = new ArrayList<OverviewNode>();
 	public ArrayList<Room> rooms = new ArrayList<Room>();

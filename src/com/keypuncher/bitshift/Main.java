@@ -11,9 +11,6 @@ import javax.swing.*;
 public class Main extends Canvas implements Runnable {
 	private static final long serialVersionUID = -2125899241596216385L;
 
-	/**
-	 * Copyright <c> Owen Lennon 2014
-	 */
 	public static String title = "Gamma - Text Adventure Game Engine";
 	public static int WIDTH = 656, HEIGHT = 341;
 	public static Font font;

@@ -15,9 +15,6 @@ import com.keypuncher.creator.windows.*;
 
 public class Creator extends JFrame {
 
-	/**
-	 * Copyright <c> Owen Lennon 2014
-	 */
 	private static final long serialVersionUID = -5283836604868244057L;
 
 	private JPanel topBar;
